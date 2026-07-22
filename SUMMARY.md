@@ -38,10 +38,11 @@
 ## Examples
 
 * [7. Examples](examples/7.-examples.md)
-* [7.1 Example codes (1\~10)](examples/7.1-example-codes-1-10.md)
-* [7.2 Example codes (11\~20)](examples/7.2-example-codes-11-20.md)
-* [7.3 Example codes (21\~30)](examples/7.3-example-codes-21-30.md)
-* [7.4 Example codes (31\~40)](examples/7.4-example-codes-31-40.md)
-* [7.5 Example codes (41\~50)](examples/7.5-example-codes-41-50.md)
-* [7.6 Example codes (51\~60)](examples/7.6-example-codes-51-60.md)
-* [7.7 Example codes (61\~70)](examples/7.7-example-codes-61-70.md)
+* [7.1 First render](examples/7.1-first-render.md)
+* [7.2 Hooks & interaction](examples/7.2-hooks-and-interaction.md)
+* [7.3 Many objects & performance](examples/7.3-many-objects-and-performance.md)
+* [7.4 Geometry & materials](examples/7.4-geometry-and-materials.md)
+* [7.5 Scene & environment](examples/7.5-scene-and-environment.md)
+* [7.6 Models & assets](examples/7.6-models-and-assets.md)
+* [7.7 Showcase scenes](examples/7.7-showcase-scenes.md)
+* [7.8 Demo source code](examples/7.8-demo-sources.md)
